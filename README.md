@@ -1,5 +1,5 @@
 # Overview
-This microservice is implemented to act as an abstarction layer over a 3rd party SMS service. 
+This microservice is implemented to act as an abstraction layer over a 3rd party SMS service. 
 
 ## Project structure
 The solution comprises of two .NET projects:
